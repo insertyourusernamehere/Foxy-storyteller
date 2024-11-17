@@ -26,6 +26,14 @@
 6. **Real-Time Interaction**:
    - Captures live user input and adapts story progression dynamically, ensuring a unique experience every time.
 
+## Action Flow Diagram
+
+The following diagram illustrates the workflow of the Foxy storytelling agent:
+
+![Action Flow Diagram](./action.jpg)
+
+This flow outlines the interaction between the user, emotion detection module, journey duration calculation, the LLAMA model for story generation, and the Google Cloud TTS API for narration.
+
 ## Setup Guide
 
 ### Requirements
@@ -36,7 +44,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/insertyourusernamehere/Foxy-storyteller
+   git clone https://github.com/yourusername/foxy.git
    cd foxy
    ```
 
