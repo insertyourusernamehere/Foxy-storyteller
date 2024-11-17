@@ -7,7 +7,7 @@ Check out the following video for a full walkthrough and demo setup:
 
 [![Watch the demo video](https://img.youtube.com/vi/TFBQvUPwpUY/0.jpg)](https://youtu.be/TFBQvUPwpUY)
 
-Click the image above or [this link](https://youtu.be/TFBQvUPwpUY) to watch the demo video on YouTube.
+Click the image above or [this link](https://youtu.be/TFBQvUPwpUY) to watch the demo video on YouTube. Demo setup starts at [3:50](https://youtu.be/TFBQvUPwpUY?feature=shared&t=230).
 
 ## Features
 
