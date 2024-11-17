@@ -56,3 +56,22 @@ def generate_story_metrics():
         metrics_str += f"{metric} at {value}%, "
 
     return metrics_str.strip(", ") + "."
+
+def get_location():
+    with sr.Microphone() as source:
+        print("Hello Where are we off to Today? ")
+
+        audio = recognizer.listen(source, timeout=20, phrase_time_limit=20)
+
+        try:
+            user_query = recognizer.recognize_google(audio)
+            print("You said:", user_query)
+
+            return(user_query)
+        
+        except sr.UnknownValueError:
+            # Speech was detected but not understood
+            return "Silence"
+        
+
+
