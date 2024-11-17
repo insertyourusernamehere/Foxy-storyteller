@@ -55,6 +55,7 @@ def listen_for_commands():
                 if "hey foxy end" in command.lower():
                     print("End command detected!")
                     stop_flag = True  # Flag to stop the audio and program
+                    pause_flag = False
                     break
                 
                 if "hey foxy stop" in command.lower():
