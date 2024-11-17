@@ -44,8 +44,8 @@ This flow outlines the interaction between the user, emotion detection module, j
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/foxy.git
-   cd foxy
+   git clone https://github.com/insertyourusernamehere/Foxy-storyteller
+   
    ```
 
 2. **Install Dependencies**:
