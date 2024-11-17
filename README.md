@@ -3,6 +3,12 @@
 
 **Foxy** is an intelligent, personalized storytelling agent designed to provide engaging, immersive narratives tailored to the user's emotional state, journey duration, and other unique preferences. By leveraging state-of-the-art AI technologies, Foxy provides a dynamic storytelling experience and seamless voice-based interaction.
 
+Check out the following video for a full walkthrough and demo setup:
+
+[![Watch the demo video](https://img.youtube.com/vi/TFBQvUPwpUY/0.jpg)](https://youtu.be/TFBQvUPwpUY)
+
+Click the image above or [this link](https://youtu.be/TFBQvUPwpUY) to watch the demo video on YouTube.
+
 ## Features
 
 1. **Dynamic Storytelling**:
